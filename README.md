@@ -3,8 +3,8 @@
 
 About me 
 
-Languages and Tools
-
+### Languages and Tools
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ### Follow me 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-thebadge&log=Telegram&logoColor=FF0000)](https://t.me/SurSuren)
