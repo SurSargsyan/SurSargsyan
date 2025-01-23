@@ -6,7 +6,6 @@ About me
 Languages and Tools
 
 ### Follow me 
-### Follow me 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-thebadge&log=Telegram&logoColor=FF0000)](https://t.me/SurSuren)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-thebadge&log=Linkedin&logoColor=FF0000)](https://www.linkedin.com/in/suren-sargsyan-25582a27a/)
