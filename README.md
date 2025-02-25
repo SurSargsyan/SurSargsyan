@@ -3,6 +3,8 @@
 
 ### I'm a student at 42Malaga wiht one year of eexperience in Web fronted development. Currently learning Unity to expand my skills in game development and interactive applicationes.
 
+![Estadísticas de SurSargsyan](https://github-readme-stats.vercel.app/api?username=SurSargsyan)
+
 ### Languages and Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
